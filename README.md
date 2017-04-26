@@ -8,6 +8,8 @@ RxAndroid </br>
 https://github.com/ReactiveX/RxAndroid </br>
 RxLifecycle  </br>
 https://github.com/trello/RxLifecycle  </br>
+retrofit</br>
+https://github.com/square/retrofit  </br>
 6.0权限管理 easypermissions <br />
 https://github.com/googlesamples/easypermissions   <br />
 EventBus </br>
