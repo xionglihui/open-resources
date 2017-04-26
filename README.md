@@ -11,7 +11,7 @@
  6.0权限管理 easypermissions <br />
     https://github.com/googlesamples/easypermissions   <br />
  EventBus </br>
-    https://github.com/greenrobot/EventBus
+    https://github.com/greenrobot/EventBus</br>
  WebView中的Java与JavaScript提供【安全可靠】 Safe Java-JS WebView Bridge  <br />
     https://github.com/pedant/safe-java-js-webview-bridge   <br/>
  图片加载picasso、glide <br/>
