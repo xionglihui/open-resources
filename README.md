@@ -37,8 +37,6 @@ AnimCheckBox</br>
 https://github.com/lguipeng/AnimCheckBox  </br>
 生成、扫描二维码条形码</br>
 https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/qrcode  </br>
-Android面试题总结</br>
-https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Interview.md </br>
 RecyclerView粘性头部控件 - sticky-headers-recyclerview</br>
 https://github.com/timehop/sticky-headers-recyclerview </br>
 Progress 相关(各种圆形进度)</br>
