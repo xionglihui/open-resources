@@ -1,7 +1,7 @@
 # open-resources
 各种资源</br>
 开源项目 </br>
->https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/app  </br>
+https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/app  </br>
 RxJava  </br>
 https://github.com/ReactiveX/RxJava  </br>
 RxAndroid </br>
