@@ -24,7 +24,9 @@ https://github.com/mzule/ActivityRouter   </br>
 4.4以上实现沉浸式状态栏工具StatusBarUtil   <br />
 https://github.com/laobie/StatusBarUtil   <br/>
 下拉刷新android-Ultra-Pull-To-Refresh   </br>
-https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   </br>
+https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   </br>
+阿里开源的一个基础UI框架 、提供了一个用于RecyclerView的自定义的LayoutManger，可以实现不同布局格式的混排vlayout</br>
+https://github.com/alibaba/vlayout </br>
 垂直跑马灯</br>  
 https://github.com/sfsheng0322/MarqueeView  </br>
 刮刮卡</br>
