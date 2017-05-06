@@ -27,6 +27,8 @@ https://github.com/laobie/StatusBarUtil   <br/>
 https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   </br>
 阿里开源的一个基础UI框架 、提供了一个用于RecyclerView的自定义的LayoutManger，可以实现不同布局格式的混排vlayout</br>
 https://github.com/alibaba/vlayout </br>
+ViewPager指示灯PagerSlidingTabStrip </br>
+https://github.com/astuetz/PagerSlidingTabStrip</br>
 垂直跑马灯</br>  
 https://github.com/sfsheng0322/MarqueeView  </br>
 刮刮卡</br>
