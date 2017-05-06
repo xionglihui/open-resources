@@ -29,7 +29,7 @@ https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   </br>
 https://github.com/alibaba/vlayout </br>
 ViewPager指示灯PagerSlidingTabStrip </br>
 https://github.com/astuetz/PagerSlidingTabStrip</br>
-垂直跑马灯</br>  
+垂直跑马灯</br>
 https://github.com/sfsheng0322/MarqueeView  </br>
 刮刮卡</br>
 https://github.com/cooltechworks/ScratchView   </br>
