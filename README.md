@@ -45,3 +45,5 @@ RecyclerView粘性头部控件 - sticky-headers-recyclerview</br>
 https://github.com/timehop/sticky-headers-recyclerview </br>
 Progress 相关(各种圆形进度)</br>
 https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Progress.md </br>
+图片查看库，可以实现图片的浏览，手势放大缩小等操作 PhotoView</br>
+https://github.com/chrisbanes/PhotoView</br>
