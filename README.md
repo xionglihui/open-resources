@@ -48,3 +48,5 @@ Progress 相关(各种圆形进度)</br>
 https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Progress.md </br>
 图片查看库，可以实现图片的浏览，手势放大缩小等操作 PhotoView</br>
 https://github.com/chrisbanes/PhotoView</br>
+基于RxJava打造的下载工具, 支持多线程下载和断点续传, 智能判断是否支持断点续传等功能 RxDownload</br>
+https://github.com/ssseasonnn/RxDownload</br>
