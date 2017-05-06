@@ -10,8 +10,9 @@ RxLifecycle  </br>
 https://github.com/trello/RxLifecycle  </br>
 retrofit</br>
 https://github.com/square/retrofit  </br>
-6.0权限管理 easypermissions <br />
-https://github.com/googlesamples/easypermissions   <br />
+6.0权限管理 easypermissions、 RxPermissions<br />
+https://github.com/googlesamples/easypermissions <br/>
+https://github.com/tbruyelle/RxPermissions </br>
 EventBus </br>
 https://github.com/greenrobot/EventBus  </br>
 WebView中的Java与JavaScript提供【安全可靠】 Safe Java-JS WebView Bridge  <br />
