@@ -50,3 +50,5 @@ https://github.com/ddwhan0123/Useful-Open-Source-Android/blob/master/Progress.md
 https://github.com/chrisbanes/PhotoView</br>
 基于RxJava打造的下载工具, 支持多线程下载和断点续传, 智能判断是否支持断点续传等功能 RxDownload</br>
 https://github.com/ssseasonnn/RxDownload</br>
+对RecyclerView进行一系列的封装、下拉刷新、上拉加载、数据加载、数据为空、数据出错、等等问题PracticalRecyclerView</br>
+https://github.com/ssseasonnn/PracticalRecyclerView</br>
