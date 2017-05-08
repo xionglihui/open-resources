@@ -8,6 +8,8 @@ RxAndroid </br>
 https://github.com/ReactiveX/RxAndroid </br>
 RxLifecycle  </br>
 https://github.com/trello/RxLifecycle  </br>
+RxBinding</br>
+https://github.com/JakeWharton/RxBinding </br>
 retrofit</br>
 https://github.com/square/retrofit  </br>
 6.0权限管理 easypermissions、 RxPermissions<br />
