@@ -55,4 +55,6 @@ https://github.com/ssseasonnn/RxDownload</br>
 对RecyclerView进行一系列的封装、下拉刷新、上拉加载、数据加载、数据为空、数据出错、等等问题PracticalRecyclerView</br>
 https://github.com/ssseasonnn/PracticalRecyclerView</br>
 共同头部+ViewPager+ListView(AdapterView)|RecyclerView|ScrollView|WebView添加canPtr()方法,支持下拉刷新(demo以android-Ultra-Pull-To-Refresh为例.</br>
-https://github.com/cpoopc/ScrollableLayout
+https://github.com/cpoopc/ScrollableLayout </br>
+kotlin学习资料</br>
+https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md
