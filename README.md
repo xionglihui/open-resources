@@ -1,5 +1,8 @@
 # open-resources
 各种资源</br>
+kotlin官网、学习资料</br>
+http://kotlinlang.org/docs/reference/</br>
+https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md</br>
 开源项目 </br>
 https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/app  </br>
 RxJava  </br>
@@ -56,5 +59,3 @@ https://github.com/ssseasonnn/RxDownload</br>
 https://github.com/ssseasonnn/PracticalRecyclerView</br>
 共同头部+ViewPager+ListView(AdapterView)|RecyclerView|ScrollView|WebView添加canPtr()方法,支持下拉刷新(demo以android-Ultra-Pull-To-Refresh为例.</br>
 https://github.com/cpoopc/ScrollableLayout </br>
-kotlin学习资料</br>
-https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md
