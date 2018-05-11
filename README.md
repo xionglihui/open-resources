@@ -15,6 +15,8 @@ RxBinding</br>
 https://github.com/JakeWharton/RxBinding </br>
 retrofit</br>
 https://github.com/square/retrofit  </br>
+butterknife注解</br>
+https://github.com/JakeWharton/butterknife  </br>
 6.0权限管理 easypermissions、 RxPermissions<br />
 https://github.com/googlesamples/easypermissions <br/>
 https://github.com/tbruyelle/RxPermissions </br>
