@@ -64,3 +64,8 @@ https://github.com/ssseasonnn/RxDownload</br>
 https://github.com/ssseasonnn/PracticalRecyclerView</br>
 共同头部+ViewPager+ListView(AdapterView)|RecyclerView|ScrollView|WebView添加canPtr()方法,支持下拉刷新(demo以android-Ultra-Pull-To-Refresh为例.</br>
 https://github.com/cpoopc/ScrollableLayout </br>
+图标框架</br>
+https://github.com/PhilJay/MPAndroidChart </br>
+Android可伸缩布局－FlexboxLayout </br>
+https://github.com/google/flexbox-layout
+
