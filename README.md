@@ -35,6 +35,8 @@ https://github.com/square/picasso  </br>
 https://github.com/bumptech/glide   <br />
 给activity定义路由url scheme跳转 ActivityRouter  </br>
 https://github.com/mzule/ActivityRouter   </br>
+Lottie利用json文件加载动画</br>
+https://github.com/airbnb/lottie-android </br>
 4.4以上实现沉浸式状态栏工具StatusBarUtil   <br />
 https://github.com/laobie/StatusBarUtil   <br/>
 下拉刷新  </br>
