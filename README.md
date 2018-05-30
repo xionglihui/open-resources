@@ -2,11 +2,12 @@
 各种资源</br>
 kotlin官网、学习资料</br>
 http://kotlinlang.org/docs/reference/</br>
-https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md</br>
 开源项目 </br>
 https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/app  </br>
 RxJava  </br>
 https://github.com/ReactiveX/RxJava  </br>
+RxJava讲解非常详细 </br>
+https://github.com/lzyzsd/Awesome-RxJava </br>
 RxAndroid </br>
 https://github.com/ReactiveX/RxAndroid </br>
 RxLifecycle  </br>
@@ -34,8 +35,9 @@ https://github.com/bumptech/glide   <br />
 https://github.com/mzule/ActivityRouter   </br>
 4.4以上实现沉浸式状态栏工具StatusBarUtil   <br />
 https://github.com/laobie/StatusBarUtil   <br/>
-下拉刷新android-Ultra-Pull-To-Refresh   </br>
+下拉刷新  </br>
 https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   </br>
+https://github.com/scwang90/SmartRefreshLayout/tree/master  </br>
 阿里开源的一个基础UI框架 、提供了一个用于RecyclerView的自定义的LayoutManger，可以实现不同布局格式的混排vlayout</br>
 https://github.com/alibaba/vlayout </br>
 ViewPager指示灯PagerSlidingTabStrip </br>
@@ -67,5 +69,10 @@ https://github.com/cpoopc/ScrollableLayout </br>
 图标框架</br>
 https://github.com/PhilJay/MPAndroidChart </br>
 Android可伸缩布局－FlexboxLayout </br>
-https://github.com/google/flexbox-layout
+https://github.com/google/flexbox-layout </br>
+一款清新文艺的 Android 弹窗 </br>
+https://github.com/pedant/sweet-alert-dialog </br>
+自定义LayoutManager，炫酷列表</br>
+https://github.com/DingMouRen/LayoutManagerGroup
+
 
