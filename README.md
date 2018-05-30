@@ -75,6 +75,9 @@ https://github.com/google/flexbox-layout </br>
 一款清新文艺的 Android 弹窗 </br>
 https://github.com/pedant/sweet-alert-dialog </br>
 自定义LayoutManager，炫酷列表</br>
-https://github.com/DingMouRen/LayoutManagerGroup
+https://github.com/DingMouRen/LayoutManagerGroup </br>
+无限循环的视图页</br>
+https://github.com/Devlight/InfiniteCycleViewPager </br>
+
 
 
