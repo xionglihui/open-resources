@@ -81,5 +81,7 @@ https://github.com/DingMouRen/LayoutManagerGroup </br>
 无限循环的视图页</br>
 https://github.com/Devlight/InfiniteCycleViewPager </br>
 图像滤镜框架</br>
-https://github.com/CyberAgent/android-gpuimage
+https://github.com/CyberAgent/android-gpuimage </br>
+banner框架</br>
+https://github.com/youth5201314/banner
 
