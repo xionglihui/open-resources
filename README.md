@@ -83,5 +83,8 @@ https://github.com/Devlight/InfiniteCycleViewPager </br>
 图像滤镜框架</br>
 https://github.com/CyberAgent/android-gpuimage </br>
 banner框架</br>
-https://github.com/youth5201314/banner
+https://github.com/youth5201314/banner </br>
+图片压缩开源库</br>
+https://github.com/Curzibn/Luban </br>
+https://github.com/zetbaitsu/Compressor </br>
 
