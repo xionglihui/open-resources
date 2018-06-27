@@ -89,4 +89,6 @@ https://github.com/Curzibn/Luban </br>
 https://github.com/zetbaitsu/Compressor </br>
 知乎图片选择框架 </br>
 https://github.com/zhihu/Matisse </br>
+图片缩放框架 </br>
+https://github.com/chrisbanes/PhotoView </br>
 
