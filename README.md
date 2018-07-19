@@ -2,7 +2,8 @@
 各种资源</br>
 kotlin官网、学习资料</br>
 http://kotlinlang.org/docs/reference/</br>
-开源项目 </br>
+很好的学习资源、开源项目 </br>
+https://github.com/open-android/Android </br>
 https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/app  </br>
 RxJava  </br>
 https://github.com/ReactiveX/RxJava  </br>
