@@ -94,6 +94,7 @@ https://github.com/zhihu/Matisse </br>
 https://github.com/chrisbanes/PhotoView </br>
 强大的图片裁剪框架 </br>
 https://github.com/Yalantis/uCrop </br>
-网络测速</br>
+网络测速、speedtest.net module based on java android</br>
 https://github.com/bertrandmartel/speed-test-lib</br>
+https://github.com/shamir92/speedtest.net-java-module</br>
 
