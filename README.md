@@ -97,4 +97,6 @@ https://github.com/Yalantis/uCrop </br>
 网络测速、speedtest.net module based on java android</br>
 https://github.com/bertrandmartel/speed-test-lib</br>
 https://github.com/sivel/speedtest-cli </br>
+仿微信/支付宝的密码输入框效果</br>
+https://github.com/Jungerr/GridPasswordView</br>
 
