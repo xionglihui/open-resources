@@ -106,4 +106,6 @@ https://github.com/hackware1993/MagicIndicator</br>
 文件选择器</br>
 https://github.com/DroidNinja/Android-FilePicker </br>
 https://github.com/leonHua/LFilePicker</br>
-
+文件下载框架</br>
+https://github.com/lingochamp/FileDownloader </br>
+https://github.com/AriaLyy/Aria </br>
