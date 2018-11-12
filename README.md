@@ -5,6 +5,11 @@ http://kotlinlang.org/docs/reference/</br>
 很好的学习资源、开源项目 </br>
 https://github.com/open-android/Android </br>
 https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/app  </br>
+编程中文书籍索引</br>
+https://github.com/justjavac/free-programming-books-zh_CN </br>
+android UI、tool汇总 awesome-android-ui、android-open-project</br>
+https://github.com/mabeijianxi/android-expression </br>
+https://github.com/Trinea/android-open-project </br>
 RxJava  </br>
 https://github.com/ReactiveX/RxJava  </br>
 RxJava讲解非常详细 </br>
