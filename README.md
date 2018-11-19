@@ -116,3 +116,4 @@ https://github.com/lingochamp/FileDownloader </br>
 https://github.com/AriaLyy/Aria </br>
 Android 自定义表情库 </br>
 https://github.com/rockerhieu/emojicon </br>
+https://github.com/w446108264/XhsEmoticonsKeyboard </br>
