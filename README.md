@@ -5,6 +5,8 @@ http://kotlinlang.org/docs/reference/</br>
 很好的学习资源、开源项目 </br>
 https://github.com/open-android/Android </br>
 https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/app  </br>
+React-Native各类学习资源集合</br>
+https://github.com/reactnativecn/react-native-guide</br>
 编程中文书籍索引</br>
 https://github.com/justjavac/free-programming-books-zh_CN </br>
 android UI、tool汇总 awesome-android-ui、android-open-project</br>
