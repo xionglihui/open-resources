@@ -1,5 +1,7 @@
 # open-resources
 各种资源</br>
+简历模板</br>
+https://github.com/geekcompany/ResumeSample </br>
 kotlin官网、学习资料</br>
 http://kotlinlang.org/docs/reference/</br>
 很好的学习资源、开源项目 </br>
