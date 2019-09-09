@@ -38,6 +38,8 @@ EventBus </br>
 https://github.com/greenrobot/EventBus  </br>
 数据库框架</br>
 https://github.com/Raizlabs/DBFlow</br>
+指纹识别</br>
+https://github.com/JesusM/FingerprintManager </br>
 WebView中的Java与JavaScript提供【安全可靠】 Safe Java-JS WebView Bridge  <br />
 https://github.com/pedant/safe-java-js-webview-bridge   <br/>
 图片加载picasso、glide <br/>
