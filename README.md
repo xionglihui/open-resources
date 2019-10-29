@@ -124,4 +124,7 @@ Android 自定义表情库 </br>
 https://github.com/rockerhieu/emojicon </br>
 https://github.com/w446108264/XhsEmoticonsKeyboard </br>
 滑动布局</br>
-https://github.com/daimajia/AndroidSwipeLayout
+https://github.com/daimajia/AndroidSwipeLayout </br>
+视频播放框架 </br>
+https://github.com/huyongli/TigerVideo </br>
+
