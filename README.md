@@ -130,4 +130,5 @@ https://github.com/CarGuo/GSYVideoPlayer </br>
 https://github.com/huyongli/TigerVideo </br>
 https://github.com/maiwenchang/ArtPlayer </br>
 https://github.com/Bilibili/ijkplayer </br>
-
+Android 弹性 / 流式布局	 </br>
+https://github.com/google/flexbox-layout </br>
