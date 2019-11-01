@@ -127,8 +127,9 @@ https://github.com/w446108264/XhsEmoticonsKeyboard </br>
 https://github.com/daimajia/AndroidSwipeLayout </br>
 视频播放框架 </br>
 https://github.com/CarGuo/GSYVideoPlayer </br>
+https://github.com/lipangit/JiaoZiVideoPlayer </br>
+https://github.com/Bilibili/ijkplayer </br>
 https://github.com/huyongli/TigerVideo </br>
 https://github.com/maiwenchang/ArtPlayer </br>
-https://github.com/Bilibili/ijkplayer </br>
 Android 弹性 / 流式布局	 </br>
 https://github.com/google/flexbox-layout </br>
