@@ -51,6 +51,7 @@ Lottie利用json文件加载动画</br>
 https://github.com/airbnb/lottie-android </br>
 4.4以上实现沉浸式状态栏工具StatusBarUtil   <br />
 https://github.com/laobie/StatusBarUtil   <br/>
+https://github.com/msdx/status-bar-compat <br/>
 下拉刷新  </br>
 https://github.com/scwang90/SmartRefreshLayout </br>
 https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   </br>
@@ -135,3 +136,4 @@ Android 弹性 / 流式布局	 </br>
 https://github.com/google/flexbox-layout </br>
 国内一线互联网公司内部面试题库	</br>
 https://github.com/JackyAndroid/AndroidInterview-Q-A  </br>
+
