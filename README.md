@@ -50,6 +50,7 @@ https://github.com/mzule/ActivityRouter   </br>
 Lottie利用json文件加载动画</br>
 https://github.com/airbnb/lottie-android </br>
 4.4以上实现沉浸式状态栏工具StatusBarUtil   <br />
+https://github.com/gyf-dev/ImmersionBar <br/>
 https://github.com/laobie/StatusBarUtil   <br/>
 https://github.com/msdx/status-bar-compat <br/>
 下拉刷新  </br>
