@@ -143,4 +143,8 @@ Android 弹性 / 流式布局	 </br>
 https://github.com/google/flexbox-layout </br>
 国内一线互联网公司内部面试题库	</br>
 https://github.com/JackyAndroid/AndroidInterview-Q-A  </br>
+GitHub标星6.3K+！史上最全分类 Android 开源大全！ </br>
+https://github.com/XXApple/AndroidLibs </br>
+Jetpack MVVM 最佳实践 </br>
+https://github.com/KunMinX/Jetpack-MVVM-Best-Practice  </br>
 
