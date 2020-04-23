@@ -147,4 +147,6 @@ GitHub标星6.3K+！史上最全分类 Android 开源大全！ </br>
 https://github.com/XXApple/AndroidLibs </br>
 Jetpack MVVM 最佳实践 </br>
 https://github.com/KunMinX/Jetpack-MVVM-Best-Practice  </br>
+成为一名优秀的Android开发，需要一份完备的[知识体系] <br>
+https://github.com/JsonChao/Awesome-Android-Notebook </br>
 
