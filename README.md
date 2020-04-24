@@ -149,4 +149,6 @@ Jetpack MVVM 最佳实践 </br>
 https://github.com/KunMinX/Jetpack-MVVM-Best-Practice  </br>
 成为一名优秀的Android开发，需要一份完备的[知识体系] <br>
 https://github.com/JsonChao/Awesome-Android-Notebook </br>
+Android 屏幕录制 </br>
+https://github.com/nanchen2251/ScreenRecordHelper </br>
 
