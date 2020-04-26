@@ -151,4 +151,6 @@ https://github.com/KunMinX/Jetpack-MVVM-Best-Practice  </br>
 https://github.com/JsonChao/Awesome-Android-Notebook </br>
 Android 屏幕录制 </br>
 https://github.com/nanchen2251/ScreenRecordHelper </br>
+文件下载 <br/>
+https://github.com/lingochamp/FileDownloader </br>
 
