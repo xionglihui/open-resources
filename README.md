@@ -153,3 +153,6 @@ Android 屏幕录制 </br>
 https://github.com/nanchen2251/ScreenRecordHelper </br>
 自动处理通话录音 </br>
 https://github.com/aykuttasil/CallRecorder </br>
+自定义相机拍照&录制视频 </br>
+https://github.com/CameraKit/camerakit-android <br/>
+https://github.com/natario1/CameraView <br/>
