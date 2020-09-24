@@ -18,6 +18,9 @@ https://github.com/mabeijianxi/android-expression </br>
 https://github.com/Trinea/android-open-project </br>
 RxJava  </br>
 https://github.com/ReactiveX/RxJava  </br>
+flutter 资源 </br>
+https://github.com/flutter/flutter </br>
+https://book.flutterchina.club/ </br>
 RxJava讲解非常详细 </br>
 https://github.com/lzyzsd/Awesome-RxJava </br>
 RxAndroid </br>
